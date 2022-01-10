@@ -1,5 +1,5 @@
-# ESC2021 bingo
-A script to generate a random cliché bingo for ESC 2021
+# ESC2019 bingo
+A script to generate a random cliché bingo for ESC 2019
 forked from [bwvdnbro/dr-bingo](https://github.com/bwvdnbro/dr-bingo)
 
 ## Prerequisites
